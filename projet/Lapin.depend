@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1698956022 source:/home/kmlu/Documents/synthese_images/Lapin/lapin.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+
+1699275049 source:/home/kmlu/Bureau/Lapin (copie)/lapin.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+
+1700065798 source:/home/kmlu/Documents/synthese_images/projet/lapin.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<math.h>
+	<cstdio>
+	<cstdlib>
+	<GL/freeglut.h>
+	<jpeglib.h>
+	<jerror.h>
+
+1699795941 source:/home/kmlu/Bureau/projet (copie)/lapin.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+	<math.h>
+
+1700515337 source:/home/kmlu/Documents/synthese_images/KUT_Kemal_KEITA_Sidy/projet/lapin.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<math.h>
+	<cstdio>
+	<cstdlib>
+	<GL/freeglut.h>
+	<jpeglib.h>
+	<jerror.h>
+
